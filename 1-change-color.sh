@@ -13,8 +13,8 @@
 
 # changing the assets from colour
 
-# Mint-Y Theme 
-# Light green - 9ab87c
+# Mint-Y Theme
+# Light green - 92b372
 # Dark green - 8fa876
 # but there are some minor green variations to consider as well
 
@@ -31,7 +31,7 @@
 # THESE CODES MUST BE CHANGED
 
 
-#original light version is #9ab87c
+#original light version is #92b372
 personallightcolour=3597d4
 
 #original dark version is #8fa876
@@ -79,7 +79,7 @@ newcolour3=$personaldarkcolour
 newcolour4=$personallightcolour
 newcolour5=$personallightcolour
 newcolour6=$personallightcolour
-newcolour7=$personaldarkcolour	
+newcolour7=$personaldarkcolour
 
 SRC_DIR="src/Mint-Y"
 
