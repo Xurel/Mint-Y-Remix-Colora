@@ -60,7 +60,7 @@ echo "Wait for it ...."
 ## DO NOT CHANGE THESE LINES
 
 
-#original light version is #9ab87c
+#original light version is #92b372
 oldcolour1=92b372
 #original dark version is #8fa876
 oldcolour2=8fa876
