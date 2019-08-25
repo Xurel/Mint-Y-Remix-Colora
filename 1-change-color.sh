@@ -11,7 +11,7 @@
 #
 ##################################################################################################################
 
-# changing the assets from colour
+# changing the assets from colours
 
 # Mint-Y Theme
 # Light green - 92b372
