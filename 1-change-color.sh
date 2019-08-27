@@ -31,10 +31,10 @@
 # THESE CODES MUST BE CHANGED
 
 
-#original light version is #92b372
+#New light color #3597d4
 personallightcolour=3597d4
 
-#original dark version is #8fa876
+#New dark color #3597d4
 personaldarkcolour=3597d4
 
 
@@ -64,11 +64,15 @@ echo "Wait for it ...."
 oldcolour1=92b372
 #original dark version is #8fa876
 oldcolour2=8fa876
-#other colour variations in svg
+#other colour variations in svg #789d55
 oldcolour3=789d55
+#other colour variations in svg #9abe76
 oldcolour4=9abe76
+#other colour variations in svg #9ab87d
 oldcolour5=9ab87d
+#other colour variations in svg #88a66a
 oldcolour6=88a66a
+#other colour variations in svg #81a65b
 oldcolour7=81a65b
 
 
