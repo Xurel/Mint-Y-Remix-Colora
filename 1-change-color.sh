@@ -31,11 +31,9 @@
 # THESE CODES MUST BE CHANGED
 
 
-#New light color #3597d4
-personallightcolour=3597d4
+personallightcolour=557faf
 
-#New dark color #3597d4
-personaldarkcolour=3597d4
+personaldarkcolour=557faf
 
 
 # THESE CODES MUST BE CHANGED
@@ -60,30 +58,26 @@ echo "Wait for it ...."
 ## DO NOT CHANGE THESE LINES
 
 
-#original light version is #92b372
 oldcolour1=92b372
-#original dark version is #8fa876
 oldcolour2=8fa876
-#other colour variations in svg #789d55
 oldcolour3=789d55
-#other colour variations in svg #9abe76
 oldcolour4=9abe76
-#other colour variations in svg #9ab87d
 oldcolour5=9ab87d
-#other colour variations in svg #88a66a
 oldcolour6=88a66a
-#other colour variations in svg #81a65b
 oldcolour7=81a65b
+oldcolour8=9ab87c
+oldcolour9=779559
 
 
 newcolour1=$personallightcolour
 newcolour2=$personaldarkcolour
-
 newcolour3=$personaldarkcolour
 newcolour4=$personallightcolour
 newcolour5=$personallightcolour
 newcolour6=$personallightcolour
 newcolour7=$personaldarkcolour
+newcolour8=$personallightcolour
+newcolour9=$personaldarkcolour
 
 SRC_DIR="src/Mint-Y"
 
