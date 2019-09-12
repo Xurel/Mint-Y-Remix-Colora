@@ -6,7 +6,8 @@
 More information can be found here. Including many youtube tutorials.
 
 http://erikdubois.be/category/themes/mint-y-based-themes/
-Note: This repository is a fork from Erik Dubois' project, which doesn't work with latest Mint and Mint-Y theme.
+
+## Note: This repository is a fork from Erik Dubois' project, which doesn't work with latest Mint and Mint-Y theme.
 
 
 # Installation
@@ -64,6 +65,9 @@ We will run the last script nr 4
 
 Follow the instructions in the script.
 
+# THANKS ERIK
+
+Not only for this scripts, but also for the great job you do wit Arcolinux!
 
 -------------------------------------------------
 # That is the fun in Linux.
